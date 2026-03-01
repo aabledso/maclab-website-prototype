@@ -1,0 +1,161 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    line-height: 20px;
+    color: #111;
+    background: #ffffff;
+    padding: 20px;
+}
+
+/* Btn styles */
+.btn {
+    display: inline-block;
+    padding: 12px 22px;
+    background: #2E7D32;
+    text-decoration: none;
+    border-radius: 6px;
+    color: #e0e0e0;
+    font-weight: bold;
+}
+
+.btn:hover {
+    background: #94e698;
+    color: #fcfbfb;
+}
+
+/* Header styles */
+header {
+    padding: 20px;
+    border-bottom: 1px solid #e0e0e0;
+    background: #FFFFFF
+}
+
+header h1 {
+    margin: 0 0 10px 0;
+    font-size: 24px;
+    color: #1B5e20;
+}
+
+nav {
+    margin-top: 10px;
+    font-size: 17px;
+}
+
+nav a {
+    text-decoration: underline;
+    font-weight: bold;
+    color: #1B5e20;
+    margin-right: 15px;
+}
+
+nav a:hover {
+    color: #3fa244;
+}
+
+section {
+    margin-bottom: 40px;
+}
+
+/* Main container styles */
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 30px 20px;
+    color: #1B5E20;
+}
+
+/* Hero Section styles */
+.hero {
+    padding: 55px 20px;
+    text-align: center;
+    background: #E8F5E9;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.hero h2 {
+    font-size: 28px;
+    margin: 0 0 15px 0;
+    color: #1B5E20
+}
+
+.hero p {
+    margin: 0 auto 18px auto;
+    max-width: 600px;
+    color: #1B5E20;
+
+}
+
+/* Snippets Section styles */
+.snippets {
+    background: #F1F8F4;
+    padding: 40px 20px;
+    border-bottom: 1px solid #e0e0e0;
+    border-radius: 10px;
+}
+
+.snippets h2,
+.testimonials h2 {
+    margin-top: 25px;
+    margin-bottom: 10px;
+
+}
+
+.snippets ul {
+    margin: 6px 0;
+    padding-left: 18px;
+}
+
+.snippets li {
+    margin: 6px 0;
+}
+
+.snippets p {
+    margin-bottom: 12px;
+}
+
+/* Testimonials Section styles */
+.testimonials {
+    margin-top: 35px;
+    padding-top: 25px;
+    border-top: 1px solid #eee;
+}
+
+.testimonials h2 {
+    color: #1B5E20;
+}
+
+.testimonial {
+    background: #F1F8F4;
+    border: 1px solid #d0e8d3;
+    border-radius: 8px;
+    padding: 14px 16px;
+    margin: 12px 0;
+}
+
+.testimonial p {
+    margin: 0 0 10px 0;
+    color: #1B5E20;
+}
+
+.testimonial span {
+    display: block;
+    margin-top: 8px;
+    color: #1B5E20;
+    font-weight: 700;
+}
+
+/* Footer styles */
+footer {
+    text-align: center;
+    padding: 18px 10px;
+    border-top: 1px solid #e0e0e0;
+    font-size: 14px;
+    color: #1B5E20;
+}
