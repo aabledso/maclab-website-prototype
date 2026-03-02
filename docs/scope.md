@@ -8,11 +8,11 @@ healthy meals. The website will allow users to learn why MacLab was created and 
 This project revolves around the Final Project requirements of creating a two page
 prototype for a website that includes a stylesheet, project scope statement,
 scope.md, plan.md, and retrospective.md files. The website will have a homepage
-introducing MacLab and a menu page.
+introducing MacLab and an about page containing a few menu items.
 ## Desired Results
 The project will be deemed successful when the following outcomes are achieved:
 * A functional two page website prototype is completed
-* Website has a home page and menu page
+* Website has a home page and about page
 * Website is visually appealing and well organized
 * Code is well organized and functions correctly
 * All files are stored in a public GitHub repository that is professional and
@@ -26,7 +26,7 @@ includes Read Me file
 * No JavaScript
 * No custom domain
 * No advanced graphics
-* No pages other than Home and Menu
+* No pages other than Home and About
 ## Feedback Loops
 Feedback will be provided by the course instructor throughout the development of
 the website. Feedback will be used to improve different aspects of the website and
