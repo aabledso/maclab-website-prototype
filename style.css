@@ -152,7 +152,9 @@ section {
 }
 
 /*About Sections */
-.mission-section, .story-section, .values-section {
+.mission-section,
+.story-section,
+.values-section {
     background: #FFFFFF;
     border: 1px solid #e6eee8;
     border-left: 6px solid #1B5E20;
@@ -161,18 +163,24 @@ section {
     margin-bottom: 30px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
 }
-.mission-section h2, .story-section h2, .values-section h2 {
+
+.mission-section h2,
+.story-section h2,
+.values-section h2 {
     margin-bottom: 12px;
     color: #1B5E20;
 }
+
 .values-section ul {
     margin: 10px 0;
     padding-left: 20px;
 }
+
 .values-section li {
     margin: 6px 0;
     color: #1B5E20;
 }
+
 /* Menu Section styles */
 .menu {
     margin-top: 50px;
